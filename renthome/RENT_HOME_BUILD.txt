@@ -1,0 +1,5 @@
+StayFinder Clean Barangay Filter Build
+Build: 2026-10-03
+Expected Browse URL: http://localhost/renthome/browse.php
+Expected Owner URL: http://localhost/renthome/owner/create-listing.php
+Location filter default: All Barangays
